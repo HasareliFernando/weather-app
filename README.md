@@ -112,6 +112,3 @@ src/
 
 ## Notes
 
-* Weather data is retrieved using the OpenWeather API.
-* API key should not be committed to source control.
-* The `.env` file is excluded via `.gitignore`.
